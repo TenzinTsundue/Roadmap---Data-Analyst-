@@ -3,7 +3,12 @@ Need a proper road map to become data analyst
 ### Two Month Plan
 ---
 December 6-12 : **Excel and Statistics**
-
+Excel
+- workbook
+- worksheet
+- Freeze column and row
+- AutoSum
+- Xlookup
 December 13-19 : **Excel and Statistics**
 
 December 20-26 : **Tableau and Power BI**
