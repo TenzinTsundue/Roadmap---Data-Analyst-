@@ -2,7 +2,7 @@
 Need a proper road map to become data analyst
 ### Two Month Plan
 ---
-December 6-12 : **Excel and Statistics**
+December 6-12 : **Excel and Statistics**<br>
 Excel
 - workbook
 - worksheet
