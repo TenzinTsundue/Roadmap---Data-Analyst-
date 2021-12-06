@@ -8,7 +8,13 @@ Excel
 - worksheet
 - Freeze column and row
 - AutoSum
-- Xlookup
+- Xlookup<br>
+Excel for data analysis
+- Quartile  0 1 2 3 4, Inclusive and Exclusive
+- Variance and Standard deviation(Population and sample)
+- Central limit theorem
+- Margin of error / Level of confidence<br>
+
 December 13-19 : **Excel and Statistics**
 
 December 20-26 : **Tableau and Power BI**
