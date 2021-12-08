@@ -13,7 +13,13 @@ Excel for data analysis
 - Quartile  0 1 2 3 4, Inclusive and Exclusive
 - Variance and Standard deviation(Population and sample)
 - Central limit theorem
-- Margin of error / Level of confidence<br>
+- Margin of error / Level of confidence
+- Histogram
+- Scatter charts
+- Visualize logarithmic scales
+- Trendlines
+- Forecast formula
+- Running average<br>
 
 December 13-19 : **Excel and Statistics**
 
