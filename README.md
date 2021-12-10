@@ -19,7 +19,16 @@ Excel for data analysis
 - Visualize logarithmic scales
 - Trendlines
 - Forecast formula
-- Running average<br>
+- Running average
+- Hypothesis: Null and Alternative hypothesis
+- Data Distribution: 
+  - Normal or bell curve
+	- Exponential distribution
+	- Uniform distribution
+	- Binomial distribution
+	- Passion distribution
+- Covariance and Correlation
+- Bayesian Analysis
 
 December 13-19 : **Excel and Statistics**
 
