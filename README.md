@@ -34,8 +34,6 @@ Excel for data analysis
 
 **Tableau and Power BI**
 
-**Tableau and Power BI**
-
 **Programming Python/R**
 
 **Numpy, Pandas, Data Visualization**
