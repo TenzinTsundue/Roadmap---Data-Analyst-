@@ -2,7 +2,7 @@
 Need a proper road map to become data analyst
 ### Two Month Plan
 ---
-December 6-12 : **Excel and Statistics**<br>
+**Excel and Statistics**<br>
 Excel
 - workbook
 - worksheet
@@ -30,16 +30,16 @@ Excel for data analysis
 - Covariance and Correlation
 - Bayesian Analysis
 
-December 13-19 : **Excel and Statistics**
+**Excel and Statistics**
 
-December 20-26 : **Tableau and Power BI**
+**Tableau and Power BI**
 
-December 27-January 2 : **Tableau and Power BI**
+**Tableau and Power BI**
 
-January 3-9 : **Programming Python/R**
+**Programming Python/R**
 
-January 10-16 : **Numpy, Pandas, Data Visualization**
+**Numpy, Pandas, Data Visualization**
 
-January 17-23 : **SQL, MangoDB**
+**SQL, MangoDB**
 
-January 24-30 : **Projects, Portfolio**
+**Projects, Portfolio**
